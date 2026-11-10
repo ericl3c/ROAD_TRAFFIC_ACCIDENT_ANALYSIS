@@ -63,25 +63,8 @@ The project uses information from the following sources:
 8. Create dashboards using Power BI.
 9. Prepare the final project report and presentation.
 
-## 6. Repository Structure
 
-```text
-ROAD_TRAFFIC_ACCIDENT_ANALYSIS/
-│
-├── 01_RESEARCH/
-├── 02_DATA/
-├── 03_DATABASE_ANALYSIS/
-├── 04_DATABASE_DESIGN/
-├── 05_ORACLE_IMPLEMENTATION/
-├── 06_TESTING/
-├── 07_DOCUMENTATION/
-├── 08_PRESENTATION/
-├── 09_docs/
-│
-└── README.md
-```
-
-## 7. Expected Results
+## 6. Expected Results
 
 - Organized and cleaned datasets.
 - Database tables and relationships.
@@ -91,13 +74,13 @@ ROAD_TRAFFIC_ACCIDENT_ANALYSIS/
 - Power BI dashboards.
 - Final academic report and presentation.
 
-## 8. Project Limitations
+## 7. Project Limitations
 
 - Some countries may not provide detailed accident records.
 - Available datasets may cover different years.
 - Data formats and definitions may differ between countries.
 - Analysis depends on the accuracy and completeness of available data.
 
-## 9. Conclusion
+## 8. Conclusion
 
 This project uses database management and data analysis to understand road traffic accidents and support better road-safety decisions.
